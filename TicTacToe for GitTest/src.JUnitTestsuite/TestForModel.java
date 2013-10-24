@@ -16,7 +16,7 @@ import org.junit.Test;
 import ticTacToe.TicTacToeModel;
 
 //hier ist ein Kommentar für Testzwecke
-
+//test
 public class TestForModel {
 
 	private static TicTacToeModel model;
